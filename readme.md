@@ -1,0 +1,1 @@
+java class for replicating file structure. uses double linked list and linear node to repsersent a node
